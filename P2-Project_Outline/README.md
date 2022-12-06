@@ -8,27 +8,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
-A "what do i want to eat?" app, that helps with axious and indecisive people to make descisions abt what or where to eat.
+FeedMe is a decision making app for when you aren't able to decide on exactly what to eat! The first page has the option to login/register an account or go straight to using the generator features. Creating an account allows users to access the saved snacks, restaurants, and meals. Users have the option to choose FeedMe Now or FeedMe Later. With FeedMe Now, users input snack or fast food options and push a generator button. When you login your previous saved food pages will be there! So if you were in St. Louis and wrote up a list of food places in the area to randomly select from, you can go back if you ever happen to be in St. Louis again!
 
 ### Features
-Include Features here
-Will include: 
-The ability to add local restaurants and eateries for take out descisions
-Look up take out from a tag/keyword caleld style(of food)
-Can look up recipes based upon what is in cupboard/fridge
-Can add what is in cupboard/fridge
-Authorization
+User login/logout: Users will be able to create accounts and log in to the application and logout
+Search: Users will be able to search for recipes based on the ingredients they’ve inputted
+Delete a Saved page: Users will be able to delete their FeedMe’s when logged in
+Call to an API for a recipe page: Uses an API to display recipes and pull them up based on what you’re inputted using the search feature
+Randomizer: Randomizes selections whenever the user doesn’t have the energy/want to decide on something to eat
 
 ### Technologies
-Include Technologies here
-Angular
-TS
-JS
-Databases?
+Front end: JavaScript, Angular, Bootstrap
+Back end: MySQL, Java, Hibernate, SpringBoot
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
-I need to remember how to use TS and JS and angular lol :(
-but esp how to allow a person to enter data have it stored
+Connect Front end and back end java and JS
+How to work as a group and a team to work toward a technology product.
+
+User login/logout: Users will be able to create accounts and log in to the application and logout
+Search: Users will be able to search for recipes based on the ingredients they’ve inputted
+Delete a Saved page: Users will be able to delete their FeedMe’s when logged in
+Call to an API for a recipe page: Uses an API to display recipes and pull them up based on what you’re inputted using the search feature
+Randomizer: Randomizes selections whenever the user doesn’t have the energy/want to decide on something to eat
+
+
 ### Project Tracker
 Link to your Trello board here
 https://trello.com/b/nQD5Jga2/work
