@@ -26,11 +26,12 @@ Back end: MySQL, Java, Hibernate, SpringBoot
 Connect Front end and back end java and JS
 How to work as a group and a team to work toward a technology product.
 
-User login/logout: Users will be able to create accounts and log in to the application and logout
-Search: Users will be able to search for recipes based on the ingredients they’ve inputted
-Delete a Saved page: Users will be able to delete their FeedMe’s when logged in
-Call to an API for a recipe page: Uses an API to display recipes and pull them up based on what you’re inputted using the search feature
-Randomizer: Randomizes selections whenever the user doesn’t have the energy/want to decide on something to eat
+Bootstrap - UI frameworks and libraries
+How to work on a team
+How to connect a Javascript/Angular front-end to a Java/SpringBoot backend
+Using trello boards to communicate and split up the work
+Learning the work-flow that will be used in real-job scenarios
+
 
 
 ### Project Tracker
